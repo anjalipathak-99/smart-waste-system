@@ -1,5 +1,4 @@
 # Smart Waste Segregation & Collection System
-### Software-only prototype for SIH 2026 (no physical hardware / ESP32 required)
 
 A full-stack system that simulates a citywide smart-bin network end-to-end:
 AI image-based waste classification, virtual IoT sensors, an admin
